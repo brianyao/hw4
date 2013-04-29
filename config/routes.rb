@@ -2,6 +2,8 @@ Rottenpotatoes::Application.routes.draw do
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
+  match '/movies/:id/movies_with_same_director/' => "movies#movies_with_same_director"
+  # match '/movies/by_director/' => redirect("/movies")
   # Sample of regular route:
   #   match 'products/:id' => 'catalog#view'
   # Keep in mind you can assign values other than :controller and :action

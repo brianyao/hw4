@@ -15,7 +15,8 @@ group :development, :test do
   gem 'capybara'
   gem 'launchy'
   gem 'rspec-rails'
-  gem 'simplecov'
+  gem 'ZenTest'
+  gem 'simplecov', :require => false
 end
 group :production do
   gem 'pg'
@@ -40,3 +41,6 @@ gem 'jquery-rails'
 
 # To use debugger
 gem 'haml'
+
+# To use SimpleCov
+gem 'simplecov'

@@ -1,0 +1,115 @@
+--- 
+RSpec: 
+  :original_result: 
+    /home/ubuntu/hw4/app/controllers/application_controller.rb: 
+    - 1
+    - 1
+    - 
+    /home/ubuntu/hw4/app/helpers/application_helper.rb: 
+    - 1
+    - 
+    /home/ubuntu/hw4/app/helpers/movies_helper.rb: 
+    - 1
+    - 
+    - 1
+    - 0
+    - 
+    - 
+    /home/ubuntu/hw4/app/controllers/movies_controller.rb: 
+    - 1
+    - 
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 4
+    - 4
+    - 
+    - 1
+    - 
+    - 1
+    - 
+    - 4
+    - 4
+    - 
+    - 4
+    - 2
+    - 2
+    - 2
+    - 2
+    - 
+    - 0
+    - 
+    - 
+    - 
+    - 2
+    - 1
+    - 1
+    - 1
+    - 1
+    - 0
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 6
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 1
+    - 
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 1
+    - 1
+    - 1
+    - 1
+    - 
+    - 
+    - 1
+    - 2
+    - 2
+    - 2
+    - 1
+    - 1
+    - 
+    - 2
+    - 
+    - 
+    - 
+    /home/ubuntu/hw4/app/models/movie.rb: 
+    - 1
+    - 1
+    - 4
+    - 
+    - 
+  :created_at: 2013-04-29 07:19:46.181094 -07:00
+Cucumber Features: 
+  :original_result: {}
+
+  :created_at: 2013-04-29 07:00:53.306977 -07:00
