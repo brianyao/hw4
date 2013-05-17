@@ -3,6 +3,8 @@ Rottenpotatoes::Application.routes.draw do
   # first created -> highest priority.
 
   match '/movies/:id/movies_with_same_director/' => "movies#movies_with_same_director"
+  match 'auth/:provider/callback' => 'sessions#create',:as => 'login'
+match 'logout' => 'sessions#destroy'
   # match '/movies/by_director/' => redirect("/movies")
   # Sample of regular route:
   #   match 'products/:id' => 'catalog#view'
